@@ -29,7 +29,7 @@ pip install -r requirements.txt
 Run the application:
 ```bash
 source ~/.venv/retirementcalc/bin/activate
-streamlit run retirement_calculator.py
+streamlit run retirement-projector.py
 ```
 
 Access at: `http://localhost:8501`
