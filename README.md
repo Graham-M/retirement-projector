@@ -28,7 +28,8 @@ pip install -r requirements.txt
 
 Run the application:
 ```bash
-source ~/.venv/retirementcalc/bin/activate
+mkvirtualenv retirementcalc
+workon retirementcalc
 streamlit run retirement-projector.py
 ```
 
